@@ -1,0 +1,50 @@
+2019-04-08 17:13:08,725:INFO:logs:Start Validation by using KNN_KNN_config.pkl model
+2019-04-08 17:13:08,772:INFO:logs: mode: valid, Model: KNN_KNN_config.pkl, F1 score: 1.0
+2019-04-08 17:13:08,772:INFO:logs:Validation Ends
+2019-04-08 17:13:08,772:INFO:logs:______________________________________________________________
+2019-04-08 17:15:23,695:INFO:logs:Start Validation by using KNN_KNN_config.pkl model
+2019-04-08 17:15:23,742:INFO:logs: mode: valid, Model: KNN_KNN_config.pkl, F1 score: 1.0
+2019-04-08 17:15:23,742:INFO:logs:*************Validation Ends*********************
+2019-04-08 17:19:34,446:INFO:logs:Start Validation by using LG_LG_config.pkl model
+2019-04-08 17:19:34,540:INFO:logs: mode: valid, Model: LG_LG_config.pkl, F1 score: 0.7277389927135913
+2019-04-08 17:19:34,540:INFO:logs:************* Validation Ends *********************
+2019-04-08 17:30:22,404:WARNING:logs:You try to run a LG_LG_cog.pkl model which is not found in your models directory
+2019-04-08 22:19:42,596:WARNING:logs:You tried to run a KNN_KNN_config.pkl model which was not found in your models directory
+2019-04-08 22:22:05,330:WARNING:logs:You tried to run a KNN_KNN_config.pkl model which was not found in your models directory
+2019-04-08 22:22:35,279:WARNING:logs:You tried to run a KNN_KNN_config.pkl model which was not found in your models directory
+2019-04-08 22:25:28,343:WARNING:logs:You tried to run a KNN.pkl model which was not found in your models directory
+2019-04-08 22:27:27,547:WARNING:logs:You tried to run a LG_LG_config.pkl model which was not found in your models directory
+2019-04-08 22:27:55,132:INFO:logs:Start Training KNN Classifier with KNN_config
+2019-04-08 22:27:55,274:INFO:logs:Model Name is:KNN_KNN_config.pkl
+2019-04-08 22:27:55,275:INFO:logs:************ Training KNN classifier ends **************
+2019-04-08 22:29:15,749:WARNING:logs:You tried to run a KNN.pkl model which was not found in your models directory
+2019-04-08 22:30:38,242:WARNING:logs:You tried to run a KNN.pkl model which was not found in your models directory
+2019-04-08 22:39:18,281:INFO:logs:Start Validation by using KNN.pkl model
+2019-04-08 22:39:18,344:INFO:logs: mode: valid, Model: KNN.pkl, F1 score: 1.000
+2019-04-08 22:39:18,344:INFO:logs:************* Validation Ends *********************
+2019-04-08 22:40:06,940:INFO:logs:Start Testing  by using KNN.pkl model
+2019-04-08 22:42:34,347:INFO:logs:Start Testing  by using KNN.pkl model
+2019-04-08 22:42:45,186:INFO:logs:Start Validation by using KNN.pkl model
+2019-04-08 22:42:45,240:INFO:logs: mode: valid, Model: KNN.pkl, F1 score: 1.000
+2019-04-08 22:42:45,240:INFO:logs:************* Validation Ends *********************
+2019-04-08 22:48:41,367:INFO:logs:Start Testing  by using KNN.pkl model
+2019-04-08 22:48:41,407:INFO:logs: mode: Test, Model: KNN.pkl, F1 score: 1.000
+2019-04-08 22:48:41,407:INFO:logs:************* Testing Ends *********************
+2019-04-08 22:49:23,308:INFO:logs:Start Testing  by using LG_LG_config.pkl model
+2019-04-08 22:49:23,456:INFO:logs: mode: Test, Model: LG_LG_config.pkl, F1 score: 0.145
+2019-04-08 22:49:23,456:INFO:logs:************* Testing Ends *********************
+2019-04-08 22:50:48,409:INFO:logs:Start Testing  by using KNN.pkl model
+2019-04-08 22:50:48,464:INFO:logs: mode: Test, Model: KNN.pkl, F1 score: 1.000
+2019-04-08 22:50:48,465:INFO:logs:************* Testing Ends *********************
+2019-04-09 00:01:08,624:INFO:logs:Start Testing  by using KNN model
+2019-04-09 00:01:10,476:INFO:logs: mode: Test, Model: KNN, F1 score: 1.000
+2019-04-09 00:01:10,476:INFO:logs:************* Testing Ends *********************
+2019-04-09 00:06:06,192:INFO:logs:Start Validation by using KNN model
+2019-04-09 00:06:06,521:INFO:logs: mode: valid, Model: KNN, F1 score: 1.000
+2019-04-09 00:06:06,521:INFO:logs:************* Validation Ends *********************
+2019-04-09 00:08:09,903:INFO:logs:Start Validation by using LG_LG_config model
+2019-04-09 00:08:10,225:INFO:logs: mode: valid, Model: LG_LG_config, F1 score: 0.728
+2019-04-09 00:08:10,225:INFO:logs:************* Validation Ends *********************
+2019-04-11 15:24:38,959:INFO:logs:Start Training KNN Classifier with KNN_config
+2019-04-11 15:24:39,228:INFO:logs:Model Name is:KNN_KNN_config.pkl
+2019-04-11 15:24:39,228:INFO:logs:************ Training KNN classifier ends **************
